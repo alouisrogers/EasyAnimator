@@ -1,0 +1,13 @@
+From the last assignment, we adjusted the way that we sorted the commands for the text view so that
+we use a TreeMap instead of the previous methods so that the list couldn't mutate. We also
+combined parts of our code and clarified some other parts in small ways as we did so. In this
+assignment we added a Controller and three Views. The controller processes the list of Strings
+from the commandline in the main method and animates a view based on the commands. We had an
+interface, IView that had the method show for animation, that was implemented by GUIView,
+TextView, and SVGView. For the GUIView we made a separate VisualPanel that extended a JPanel from
+the Java Swing in order to draw each frame of the animation. The VisualPanel used a GUIVisitor in
+order to render each shape. We used a ShapeVisitor interface for this that was implemented by the
+GUIVisitor and the ShapeRenderVisitor. For the TextView, we moved the previous text output
+functionality from the model to this View and added a parameter for ticksPerSecond to adjust the
+time reference in the output. For the SVGView we used visitors for the Commands and the Shapes to
+render the proper SVG format for each.

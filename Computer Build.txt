@@ -1,0 +1,15 @@
+Case: https://www.newegg.com/Product/Product.aspx?item=N82E16811119324, Price: 39.99
+CPU: https://www.newegg.com/Product/Product.aspx?Item=N82E16819117822&cm_re=intel_i3-_-19-117-822-_-Product, Price 119.99
+MotherBoard: https://www.newegg.com/Product/Product.aspx?item=N82E16813144164, Price 62.99
+GPU: https://www.newegg.com/Product/Product.aspx?item=N82E16814125903, Price 289.99
+RAM: https://www.newegg.com/Product/Product.aspx?item=N82E16820233982, Price 73.99
+HD: https://www.newegg.com/Product/Product.aspx?Item=9SIA5AD56V0360&ignorebbr=1, Price 34.88
+CPU Fan: https://www.newegg.com/Product/Product.aspx?Item=9SIAE306M28987, Price 12.70
+Thermal Paste: https://www.newegg.com/Product/Product.aspx?Item=N82E16835100007&cm_re=thermal_paste-_-35-100-007-_-Product, 5.75
+Power Supply: https://www.newegg.com/Product/Product.aspx?Item=N82E16817139230, Price 39.99
+Price: 680.27
+Trade the GPU out for a 1050 Ti to reduce cost https://www.newegg.com/Product/Product.aspx?item=N82E16814137091 Price reduced to 565.27
+
+
+
+
